@@ -16,9 +16,19 @@
           {
             "group": "平台介绍",
             "pages": [
-              "introduction/page-01",
-              "introduction/page-03",
-              "introduction/page-05"
+              "/introduction/page-01",
+              "/introduction/page-03",
+              "/introduction/page-05"
+            ]
+          },
+          {
+            "group": "快速入门",
+            "pages": [
+              "/quickStart/Overview",
+              "/quickStart/register",
+              "/quickStart/CreatProduct",
+              "/quickStart/DeviceConnect",
+              "/quickStart/DeviceDebug"
             ]
           }
         ]
