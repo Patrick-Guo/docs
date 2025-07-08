@@ -16,18 +16,9 @@
           {
             "group": "平台介绍",
             "pages": [
-              "introduction/page-01"
-            ]
-          },
-          {
-            "group": "Essentials",
-            "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
+              "introduction/page-01",
+              "introduction/page-03",
+              "introduction/page-05"
             ]
           }
         ]
