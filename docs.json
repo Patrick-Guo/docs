@@ -24,11 +24,11 @@
           {
             "group": "快速入门",
             "pages": [
-              "/quickStart/Overview",
-              "/quickStart/register",
-              "/quickStart/CreatProduct",
-              "/quickStart/DeviceConnect",
-              "/quickStart/DeviceDebug"
+              "quickStart/Overview",
+              "quickStart/register",
+              "quickStart/CreatProduct",
+              "quickStart/DeviceConnect",
+              "quickStart/DeviceDebug"
             ]
           }
         ]
